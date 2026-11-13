@@ -1,7 +1,7 @@
 # Motionlab Study Case
 
 ## Biodata
-Sanchez Declan Chan
+Sanchez Declan Chan  
 103012600082
 
 ## Demo aplikasi
@@ -9,14 +9,14 @@ Sanchez Declan Chan
 
 ## How to run?
 1. Tulis teks/label apapun di textbox, lalu click tombol simpan
-2. Setelah itu, kamu bisa memilih untuk centang checkbox atau hapus task.
+2. Setelah itu, kamu bisa memilih untuk centang checkbox atau hapus task.  
 Video demo : https://github.com/user-attachments/assets/d96a93c9-8ff1-44db-b7df-4f92d69f4b3c
 
 ## Deklarasi Penggunaan AI
-Apakah menggunakan AI? Ya
-Tool AI yang digunakan: Gemini 4 Hydrogen
-Estimasi persentase kontribusi AI: 30%
-Bagian kode/fitur yang dibantu AI:
-Referensi komponen kecil UI (struktur widget TextField, ListView.builder, Checkbox)
-Pernyataan:
+Apakah menggunakan AI? Ya  
+Tool AI yang digunakan: Gemini 4 Hydrogen  
+Estimasi persentase kontribusi AI: 30%  
+Bagian kode/fitur yang dibantu AI:  
+Referensi komponen kecil UI (struktur widget TextField, ListView.builder, Checkbox)  
+Pernyataan:  
 "Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini"
