@@ -10,7 +10,6 @@ Sanchez Declan Chan
 ## How to run?
 1. Tulis teks/label apapun di textbox, lalu click tombol simpan
 2. Setelah itu, kamu bisa memilih untuk centang checkbox atau hapus task.
-https://github.com/user-attachments/assets/c897cae4-1154-4851-9994-7e27322fb067
 
 ## Deklarasi Penggunaan AI
 Apakah menggunakan AI? Ya
