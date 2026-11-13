@@ -13,10 +13,10 @@ Sanchez Declan Chan
 Video demo : https://github.com/user-attachments/assets/d96a93c9-8ff1-44db-b7df-4f92d69f4b3c
 
 ## Deklarasi Penggunaan AI
-Apakah menggunakan AI? Ya  
-Tool AI yang digunakan: Gemini 4 Hydrogen  
-Estimasi persentase kontribusi AI: 30%  
-Bagian kode/fitur yang dibantu AI:  
+1. Apakah menggunakan AI? Ya
+2. Tool AI yang digunakan: Gemini 4 Hydrogen
+3. Estimasi persentase kontribusi AI: 30%
+4. Bagian kode/fitur yang dibantu AI:  
 Referensi komponen kecil UI (struktur widget TextField, ListView.builder, Checkbox)  
-Pernyataan:  
+5. Pernyataan:  
 "Saya menyatakan bahwa saya memahami alur dan fungsi dari seluruh kode yang ada dalam repositori ini"
